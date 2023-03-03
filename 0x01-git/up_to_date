@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git pull origin master
 
+=======
+git touch up_to_date
+>>>>>>> bf0a3be5f7446e6c10d0654fda3909ec220292eb
